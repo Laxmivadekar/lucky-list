@@ -1,0 +1,13 @@
+a=[10,20,30,'python',True,1.5,2+3j]
+print(a[0])
+print(a[1])
+print(a[-7])
+print(a[-3])
+print(a[-5:-2])
+print(a[0:2])
+print(a[-5:])
+print(a[:-5])
+print(a[0])
+a=[1,1,2,3]
+a.count(1)
+print(a)
